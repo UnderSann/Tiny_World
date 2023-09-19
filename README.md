@@ -1,4 +1,4 @@
-    # **Tiny_World**
+**Tiny_World**
 Simulation Builder Application.
 
 	**About the application**
