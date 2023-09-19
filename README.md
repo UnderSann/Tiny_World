@@ -1,7 +1,7 @@
 **Tiny_World**
 Simulation Builder Application.
 
-	**About the application**
+**About the application**
 
 	**What is Tiny_World**
 An application for creating and developing various simulations, containing tools for convenient work. Procedural generation, cellular automata, 2D, 3D noise or other models, whatever you want to implement. The application only provides tools for convenient work.
